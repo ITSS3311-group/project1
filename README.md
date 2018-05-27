@@ -2,7 +2,7 @@
 
 ### I am thinking of picking this project below.
 
-###Example 7. You are required to create a simple slot machine with three slots. Each slot will generate a random number from 1 to 9. The user will start with 100 coins and can bet any number of coins per slot pull. The payouts are defined as follows: 
+Example 7. You are required to create a simple slot machine with three slots. Each slot will generate a random number from 1 to 9. The user will start with 100 coins and can bet any number of coins per slot pull. The payouts are defined as follows: 
 If 2 slots equal each other the user wins 2x the bet.
 If 3 slots equal each other the user wins 10x the bet. 
 If 0 slots equal the user loses the bet. 
